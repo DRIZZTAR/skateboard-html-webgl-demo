@@ -130,7 +130,7 @@ const raycaster = new THREE.Raycaster();
 const points = [
 	{
 		// Deck
-		position: new THREE.Vector3(-0.5, 1.0, 0.0),
+		position: new THREE.Vector3(-1.1 , 1.0, 0.0),
 		element: document.querySelector('.point-0'),
 	},
 	{
